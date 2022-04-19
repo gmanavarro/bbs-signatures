@@ -1,5 +1,5 @@
 {
-  "name": "bbs-signatures",
+  "name": "@gmanavarro/bbs-signatures",
   "version": "1.0.0",
   "author": "MATTR",
   "license": "Apache-2.0",
@@ -76,7 +76,7 @@
     }
   },
   "optionalDependencies": {
-    "node-bbs-signatures": "0.13.0"
+    "@gmanavarro/node-bbs-signatures": "0.13.0"
   },
   "dependencies": {
     "@stablelib/random": "1.0.0"

@@ -395,6 +395,15 @@
   dependencies:
     "@cspotcode/source-map-consumer" "0.8.0"
 
+"@gmanavarro/node-bbs-signatures@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@gmanavarro/node-bbs-signatures/-/node-bbs-signatures-0.13.0.tgz#1493853d9c869368c64736c291cdff6086fbc81e"
+  integrity sha512-HQIRN2Qm/5N5GnLdQI0mWCiA1Fq7Pa4/nLZvrtth6P8GeLB92dgR+FSvEkLxchVL2FJ4/XpVkJzF1kEbeJl5KA==
+  dependencies:
+    neon-cli "0.8.2"
+    node-pre-gyp "0.17.0"
+    react-native-path "^0.0.5"
+
 "@hutson/parse-repository-url@^3.0.0":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@hutson/parse-repository-url/-/parse-repository-url-3.0.2.tgz#98c23c950a3d9b6c8f0daed06da6c3af06981340"
@@ -4286,15 +4295,6 @@ nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
-
-node-bbs-signatures@0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/node-bbs-signatures/-/node-bbs-signatures-0.13.0.tgz#2625812d77fe197dec535f50d4445b86f79fe0b3"
-  integrity sha512-IMJRRyFeRw53J5G3CGAhygqMm9wqvkYGRYa0XYsdt4ttERYVwsNS4yX/IOnM3pbZXQyHqOobEaQ+Si1ryyjNhg==
-  dependencies:
-    neon-cli "0.8.2"
-    node-pre-gyp "0.17.0"
-    react-native-path "^0.0.5"
 
 node-int64@^0.4.0:
   version "0.4.0"
